@@ -3,8 +3,8 @@ Collection of set-piece user levels built with Mapster32
 
 ## Index
 
-- [sketch_001.map](#sketch-001-map)
-- [sketch_002.map](#sketch-002-map)
+- [sketch_001.map](#sketch_001map)
+- [sketch_002.map](#sketch_002map)
   
   
 ### setch_001.map
