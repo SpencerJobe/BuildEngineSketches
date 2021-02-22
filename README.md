@@ -7,7 +7,7 @@ Collection of set-piece user levels built with Mapster32
 - [sketch_002.map](#sketch_002map)
   
   
-### setch_001.map
+### sketch_001.map
 [Index](#index)
 - **Editor**: Mapster32
 - **Game**: Duke Nukem 3D 20th Anniversary World Tour  
